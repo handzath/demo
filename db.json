@@ -1,4 +1,8 @@
 {
-  "id": 1,
-  "detail": "Welcome from REST!"
+  "message": [
+    { "id": 1, "title": "Welcome from REST!" }
+  ],
+  "profile": {
+    "name": "handzath"
+  }
 }
