@@ -2,7 +2,7 @@
   "messages": [
     {
       "id": 1,
-      "title": "Welcome from REST!"
+      "detail": "Welcome from REST!"
     }
   ],
   "comments": [
